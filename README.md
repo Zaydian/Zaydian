@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there👋
 
+- 👋 Hi, I'm @zaydian aka Rishit.
 - 🔭 I’m currently working on full-stack web development in JavaScript and Python.
 - 🌱 I’m currently learning Data Science.
 - 👀 I’m interested in Open Source, Machine Learning & Data Science.
