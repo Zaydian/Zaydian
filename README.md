@@ -1,7 +1,7 @@
 ### Hi there👋
 
 - 👋 Hi, I'm @zaydian aka Rishit.
-- 🔭 I’m currently working on full-stack web development in Java and Python.
+- 🔭 I’m currently working on full-stack development in Java and Python.
 - 🌱 I’m currently developing high productive systems.
 - 👀 I’m interested in Open Source, Machine Learning & IoT systems.
 - 🛠 I'm always trying to learn something new!
