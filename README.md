@@ -7,4 +7,4 @@
 - 🛠 I'm always trying to learn something new!
 - ⚡I’m looking to collaborate on beginner open source projects/issues.
 - 💬 Ask me about anything, I'll try to help.
-- 📫 How to reach me- my email: rishit.kashyap01@gmail.com
+- 📫 Reach me @- rishit.kashyap01@gmail.com
